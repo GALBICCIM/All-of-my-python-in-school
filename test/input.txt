@@ -1,0 +1,8 @@
+This is input.txt
+this is test sentense
+
+test file 
+
+format text
+
+encoding is UTF-8

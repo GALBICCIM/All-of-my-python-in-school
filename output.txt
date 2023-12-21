@@ -1,0 +1,9 @@
+This is output.txt
+
+This is a file
+sdaf
+fds
+fdas
+fad
+
+fad
